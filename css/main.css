@@ -1,0 +1,86 @@
+.bailarines{
+	background-image: url("../img/dance_1.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: center top;
+	margin-left:0px;
+	max-width: 100%;
+    height:410px;
+}	
+.studio{
+	font-family: Neoteric-Bold;
+	font-size: 80px;
+	margin-left: 100px;
+}
+.move-studio{
+	margin-left:100px;
+}
+#boton{
+	font-family:Latolight ;
+	font-size: 20px;
+	margin-left: 100px;
+	border: 1px solid #192951;
+	background-color:#192951;
+	width: 150px;
+	border-radius: 2px;
+	padding: 10px; 
+}
+.decoracion{
+	height: 100px;
+}
+.ofertadeclases{
+	font-family:Latolight ;
+	font-size: 20px;
+	border: 1px solid #192951;
+	background-color:#192951;
+	width: 200px;
+	border-radius: 2px;
+	padding-bottom: 10px; 
+	margin-left:580px;
+}
+.boton-profes{
+	position: relative;
+	width: 40%;
+	height:60px;
+	margin-left:30%;
+	margin-top:250px;
+	background-color:#192951;
+	border-radius: 2px;
+	padding: 17px; 
+}
+.profesores{
+	background-image: url("../img/instructor_4.jpg"),url("../img/profesor_9.jpg");
+	background-repeat: no-repeat;
+	background-size: 50%,50%;
+	background-position: left top, right top;
+	margin-left:0px;
+	font-family:Latolight;
+	font-size: 20px;
+	border:3px solid #192951;
+	background-color: #192951;
+}
+.bgcuadros{
+	background-image: url("../img/textura_2.jpg");
+	background-repeat: repeat;
+	height:300px;
+}
+.poema{
+	font-size: 44px;
+	font-style: italic;
+	font-family:Latolight;
+	margin-top:7%;
+}
+.mapa{
+	margin-top:30px;
+	margin-left: 30px;
+}
+.bg-blue{
+	background-color: #192951;
+	height:350px;
+}
+.mg-visit{
+	margin-left: 50px;
+}
+.mapa{
+	padding-top:50px;
+}

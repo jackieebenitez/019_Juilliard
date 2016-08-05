@@ -1,0 +1,50 @@
+.bg-gris{
+	background-color: rgb(83, 88, 95);
+	height:200px;
+}
+.blog1{
+background-image: url("../img/blog1.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position:center;
+	margin-left:0px;
+	max-width: 100%;
+    height:200px;
+}
+.blog2{
+background-image: url("../img/profesor_5.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position:center;
+	margin-left:0px;
+	max-width: 100%;
+    height:200px;
+}
+.blog3{
+background-image: url("../img/instructor_1.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position:center;
+	margin-left:0px;
+	max-width: 100%;
+    height:200px;
+}
+.bg-gris{
+	background-color:#e1e1e1;
+	height:850px;
+	margin:0px;
+}
+.bg-gris2{
+	background-color:#bfbebe;
+	height:200px;
+}
+.vermas{
+	font-family:Latolight ;
+	font-size: 20px;
+	margin-left: 0px;
+	border: 1px solid #192951;
+	background-color:#192951;
+	width: 150px;
+	border-radius: 2px;
+	padding: 10px; 
+}
